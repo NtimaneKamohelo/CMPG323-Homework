@@ -1,2 +1,2 @@
-1. ToDo App
-The added source code deals with gathering the users daily tasks.
+1. University Website
+- This source code deals with making information available to those who want to apply at the university
